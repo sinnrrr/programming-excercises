@@ -1,0 +1,124 @@
+{
+  "repositories": {
+    "crusting": {
+      "name": "crusting",
+      "url": "https://github.com/sinnrrr/crusting",
+      "description": "My Rust practices",
+      "isPrivate": false,
+      "isArchived": true,
+      "defaultBranchRef": {
+        "name": "main",
+        "target": {
+          "oid": "c6e01d9e3c88fdede48955c18fd52fb972911836"
+        }
+      },
+      "refs": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "main",
+            "target": {
+              "oid": "c6e01d9e3c88fdede48955c18fd52fb972911836"
+            }
+          }
+        ]
+      },
+      "tags": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "issues": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "pullRequests": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "releases": {
+        "totalCount": 0,
+        "nodes": []
+      }
+    },
+    "assembrain": {
+      "name": "assembrain",
+      "url": "https://github.com/sinnrrr/assembrain",
+      "description": "My Assembly commands Cheat Sheet",
+      "isPrivate": false,
+      "isArchived": true,
+      "defaultBranchRef": {
+        "name": "main",
+        "target": {
+          "oid": "af673c6c66825806bcdb5d6e2d377695199d1b14"
+        }
+      },
+      "refs": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "main",
+            "target": {
+              "oid": "af673c6c66825806bcdb5d6e2d377695199d1b14"
+            }
+          }
+        ]
+      },
+      "tags": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "issues": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "pullRequests": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "releases": {
+        "totalCount": 0,
+        "nodes": []
+      }
+    },
+    "cricket": {
+      "name": "cricket",
+      "url": "https://github.com/sinnrrr/cricket",
+      "description": "Dead-simple process manager written in Rust",
+      "isPrivate": false,
+      "isArchived": true,
+      "defaultBranchRef": {
+        "name": "main",
+        "target": {
+          "oid": "71539d07468fd1494ca84897eb7cacf631997064"
+        }
+      },
+      "refs": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "main",
+            "target": {
+              "oid": "71539d07468fd1494ca84897eb7cacf631997064"
+            }
+          }
+        ]
+      },
+      "tags": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "issues": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "pullRequests": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "releases": {
+        "totalCount": 0,
+        "nodes": []
+      }
+    }
+  }
+}
